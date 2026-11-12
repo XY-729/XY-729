@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="235" viewBox="0 0 360 235" role="img" aria-labelledby="title">
+<title id="title">Hi, I&#x27;m XY-729 👋 南京邮电大学 · 计算机科学与技术 · 大二本科生 C++ 系统开发 · 跨端应用 · AI 辅助学习 C++ TypeScript Python</title>
+<line x1="0" y1="1" x2="360" y2="1" stroke="#b4b4b1" stroke-width="1"/>
+<text x="0" y="31" font-size="13" fill="#616970" font-family="&#x27;Segoe UI&#x27;,&#x27;Microsoft YaHei&#x27;,&#x27;Noto Sans CJK SC&#x27;,sans-serif" >Hi, I&#x27;m</text>
+<text x="0" y="104" font-size="68" fill="#252b31" font-family="Georgia,&#x27;Times New Roman&#x27;,serif" letter-spacing="-3">XY-729</text>
+<text x="244" y="97" font-size="25" fill="#252b31" font-family="&#x27;Segoe UI Emoji&#x27;,&#x27;Apple Color Emoji&#x27;,&#x27;Noto Color Emoji&#x27;,sans-serif" >👋</text>
+<text x="0" y="141" font-size="12" fill="#616970" font-family="&#x27;Segoe UI&#x27;,&#x27;Microsoft YaHei&#x27;,&#x27;Noto Sans CJK SC&#x27;,sans-serif" >南京邮电大学 · 计算机科学与技术 · 大二本科生</text>
+<text x="0" y="172" font-size="11.5" fill="#616970" font-family="&#x27;Segoe UI&#x27;,&#x27;Microsoft YaHei&#x27;,&#x27;Noto Sans CJK SC&#x27;,sans-serif" >C++ 系统开发 · 跨端应用 · AI 辅助学习</text>
+<rect x="0" y="193" width="48" height="24" rx="3" fill="#f2f0ec"/>
+<text x="24.0" y="209" font-size="11" fill="#616970" font-family="Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">C++</text>
+<rect x="56" y="193" width="93" height="24" rx="3" fill="#f2f0ec"/>
+<text x="102.5" y="209" font-size="11" fill="#616970" font-family="Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">TypeScript</text>
+<rect x="157" y="193" width="69" height="24" rx="3" fill="#f2f0ec"/>
+<text x="191.5" y="209" font-size="11" fill="#616970" font-family="Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">Python</text>
+</svg>
